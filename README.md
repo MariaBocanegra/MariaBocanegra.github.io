@@ -1,2 +1,2 @@
-# maria-bocanegra.github.io
+# Maria-Bocanegra.github.io
 UNCO BACS 200
